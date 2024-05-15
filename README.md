@@ -77,6 +77,7 @@ Youtube:
 68. https://youtu.be/O3Y8us3PmfM?si=TsM2ohW8TDcZrTNz
 69. https://youtu.be/vr0lRiV0vmA?si=OyxzTSnBCZZkKwM-
 70. https://youtu.be/tphhztNlImQ?si=WCgOXaTv1f6b2dXg
+71. https://www.youtube.com/watch?v=iu1d2z6p1-Q
 
 Medium:
 1. https://medium.com/@bxmbn/i-received-a-bank-offer-in-my-mailbox-and-discovered-an-idor-vulnerability-5-000-bounty-bxmbn-5209cab1fba8
