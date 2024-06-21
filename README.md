@@ -89,8 +89,8 @@ Medium:
 7. https://medium.com/bugbountywriteup/1200-idor-flaw-allow-attacker-to-approve-project-time-tracking-a9f64c06732a
 8. https://medium.com/@interc3pt3r/my-first-idor-on-hackerone-df37caa2d438
 9. https://medium.com/@Dhamuharker/unsubscribe-any-users-e-mail-notifications-via-idor-7de76e2b036b
-10. 
-
+   
 To more refer:
 1. https://github.com/daffainfo/AllAboutBugBounty/blob/master/Insecure%20Direct%20Object%20References.md
 2. https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Insecure_Direct_Object_Reference_Prevention_Cheat_Sheet.md
+3. https://x.com/h4x0r_fr34k/status/1802661564811730980?t=EpQSbkzGlJYebZxSnOLheg&s=08
